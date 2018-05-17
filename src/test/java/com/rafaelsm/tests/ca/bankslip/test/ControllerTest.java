@@ -28,7 +28,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 /**
- * Created by Rafael on 15/04/2018.
+ * Created by Rafael on 15/04/2018
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = BankSlipController.class)
